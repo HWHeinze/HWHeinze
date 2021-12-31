@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @HWHeinze
-- 👀 I’m interested in Java, JavaScript, MySQL, Web development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate at the moment nothing
-- 📫 How to reach me per mail Hans-Werner.Heinze@t-online.de
+- 👋 Hi, I’m Hans.
+- 👀 I’m interested in Java, JavaScript, MySQL, web development especially.
+- 🌱 I’m currently learning JavaScript.
+- 💞️ I’m looking to collaborate at the moment nothing.
+- 📫 You can reach me per mail Hans-Werner.Heinze@t-online.de.
+
+see you ...
 
 <!---
 HWHeinze/HWHeinze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
