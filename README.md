@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hans.
-- 👀 I’m interested in Java, JavaScript, MySQL, web development especially.
-- 🌱 I’m currently learning JavaScript.
+- 👀 I’m interested in C#, Java, JavaScript, MySQL, Hibernate and web development especially.
+- 🌱 I’m currently learning C#.
 - 💞️ I’m looking to collaborate at the moment nothing.
 - 📫 You can reach me per mail Hans-Werner.Heinze@t-online.de.
 
